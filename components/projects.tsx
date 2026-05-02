@@ -78,6 +78,15 @@ const ProjectCard = ({
 const Projects = () => {
   const projects = [
     {
+      title: "Sticky Brain",
+      description:
+        "Personal note-taking app with user authentication. Users can log in to their profile and manage a list of notes — creating, editing, and deleting them all within their own account.",
+      image: "/Sticky Brain.png",
+      technologies: ["React", "Node.js", "PostgreSQL", "Express.js"],
+      liveUrl: "https://sticky-brain-ffxv.onrender.com/",
+      githubUrl: "https://github.com/LachiePD/sticky-brain",
+    },
+    {
       title: "WIAG Customer Tracker",
       description:
         "Full-stack issue tracking system enabling users to create customer issues and assign them to team members for resolution. Improves visibility and accountability by tracking issues through defined stages rather than losing them in communication gaps.",
@@ -86,12 +95,12 @@ const Projects = () => {
       githubUrl: "https://github.com/LachiePD",
     },
     {
-      title: "Sticky Brain",
+      title: "The Cosmetic Nurse Training Academy",
       description:
-        "Personal note-taking app with user authentication. Users can log in to their profile and manage a list of notes — creating, editing, and deleting them all within their own account.",
-      image: "/Sticky Brain.png",
-      technologies: ["React", "Node.js", "PostgreSQL", "Express.js"],
-      githubUrl: "https://github.com/LachiePD",
+        "Website designed and developed for a professional cosmetic nursing training provider. Built to present course offerings, establish credibility, and convert prospective students.",
+      image: "/Cosmetic-Nurse-Training-Academy-Icon-Logo-2.png",
+      technologies: ["WordPress", "Bluehost"],
+      liveUrl: "https://cnta.com.au/",
     },
     {
       title: "Euro Kick Currency Tracker",
@@ -99,14 +108,6 @@ const Projects = () => {
         "Real-time currency tracker built with server-side rendering and open-source API integration, delivering fast and accurate exchange rate data with minimal client-side overhead.",
       image: "/placeholder.svg",
       technologies: ["Next.js", "React", "SSR", "REST API"],
-      githubUrl: "https://github.com/LachiePD",
-    },
-    {
-      title: "StarGazers APOD App",
-      description:
-        "Astronomy Picture of the Day web app built for the Los Angeles StarGazers Society. Integrates NASA's APOD API to surface daily space imagery and descriptions in a clean, accessible interface.",
-      image: "/placeholder.svg",
-      technologies: ["JavaScript", "NASA API", "HTML", "CSS"],
       githubUrl: "https://github.com/LachiePD",
     },
   ];
