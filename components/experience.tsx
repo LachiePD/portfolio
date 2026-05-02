@@ -76,7 +76,7 @@ const Experience = () => {
       description:
         "Developed a professional website for a cosmetic nurse training academy, enhancing brand presence and supporting course enquiries through improved design and usability.",
       technologies: ["React", "Next.js", "TailwindCSS", "JavaScript"],
-      logo: "/Cosmetic-Nurse-Training-Academy-Icon-Logo-2.png",
+      logo: "/bigthinkLogo.png",
     },
     {
       title: "Warehouse Operator",
