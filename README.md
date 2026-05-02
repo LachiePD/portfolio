@@ -20,5 +20,6 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Links
 
+- **Live Site:** [tinyurl.com/LachieSims](https://tinyurl.com/LachieSims)
 - **GitHub:** [github.com/LachiePD](https://github.com/LachiePD)
 - **LinkedIn:** [linkedin.com/in/lachie-sims](https://www.linkedin.com/in/lachie-sims)
